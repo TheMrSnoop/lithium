@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="resources/branding/app_icon/raw.png"
-        title="Helium" alt="Helium logo" width="120" />
+    <img src="resources/branding/app_icon/LithiumAfterDark.png"
+        title="Lithium" alt="Lithium logo" width="120" />
     <h1>Lithium</h1>
     <p>
         A minimal, Chromium-based, light-weight web browser  
         <br>
-        A personal fork of <a href="https://helium.computer/">helium</a>
+        A personal fork of the <a href="https://helium.computer/">helium</a> project.
     </p>
 </div>
 
