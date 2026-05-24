@@ -3,9 +3,9 @@
         title="Helium" alt="Helium logo" width="120" />
     <h1>Lithium</h1>
     <p>
-        A Chromium-based web browser made for people, with love.
+        A minimal, Chromium-based, light-weight web browser  
         <br>
-        A fork of [Helium](https://helium.computer/)
+        A personal fork of [Helium](https://github.com/imputnet/helium/tree/main)
     </p>
     <a href="https://helium.computer/">
         helium.computer
