@@ -5,11 +5,8 @@
     <p>
         A minimal, Chromium-based, light-weight web browser  
         <br>
-        A personal fork of [Helium](https://github.com/imputnet/helium/tree/main)
+        A personal fork of <a href="https://helium.computer/">heliumr</a>
     </p>
-    <a href="https://helium.computer/">
-        helium.computer
-    </a>
 </div>
 
 ## In Beta
