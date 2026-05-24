@@ -5,20 +5,20 @@
     <p>
         A minimal, Chromium-based, light-weight web browser  
         <br>
-        A personal fork of <a href="https://helium.computer/">heliumr</a>
+        A personal fork of <a href="https://helium.computer/">helium</a>
     </p>
 </div>
 
 ## In Beta
 > [!NOTE]
-> The Helium Browser (as by extenstion, Lithium) is currently in beta, so unexpected issues may occur.
+> The Helium Browser (and by extenstion, Lithium) is currently in beta, so unexpected issues may occur.
 > 
 
 
 ## Credits
 ### The Chromium project
 [The Chromium Project](https://www.chromium.org/) is at the core of Helium and Lithium,
-making it possible in the first place.
+making this possible in the first place.
 
 ## License
 All code, patches, modified portions of imported code or patches, and
